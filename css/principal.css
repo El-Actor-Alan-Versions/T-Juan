@@ -2,10 +2,45 @@
     text-align: center;
     font-family: sans-serif;
 }
+body{
+
+    background: linear-gradient(#17b978, #086972);
+    min-height: 100vh;
+    color: white;
+}
 
 .logo{
 
     display: block;
     margin: 0 auto;
+    width: 30px;
+}
 
+.lista-ordenada{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tabla-datos{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.nose{
+    border:1px solid black;
+    padding: 5px;
+    width: 180px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.si{
+    border:1px solid black;
+    padding: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+a{
+    color: #1f4287;
 }
