@@ -1,0 +1,29 @@
+body{
+
+    background-image: url(/img/fondo.jpg);
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+.nose{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+table{
+    background-color: rgba(212, 34, 218, 0.708);
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td{
+    padding: 8px;
+    border: 1px solid black;
+    text-align: center;
+}
