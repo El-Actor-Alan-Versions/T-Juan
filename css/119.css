@@ -12,6 +12,20 @@
     background-size: cover;
     text-align: center;
 }
+.Oz_BG{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:grey;
+    color: #1319cf;
+    background-image: url('../img/Oz_BG.jpg') ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    
+}
 
 .paintBG {
     background-image: url('../img/paint.jpg') ;
@@ -19,7 +33,7 @@
     background-size: cover;
     width: 576px;
     height: 432px;
-    font-size: 24px;
+    font-size: 16px;
     justify-content: center;
     text-align: center;
     align-items: center;
