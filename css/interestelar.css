@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #f0f0f0;
+}
+.container {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/img/interestelar.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.6);
+}
+h1, h2 {
+    color: #f0f0f0;
+    text-shadow: 2px 2px 4px #000000;
+}
+p, li {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    border-radius: 5px;
+    color: #f0f0f0;
+    text-shadow: 1px 1px 2px #000000;
+}
